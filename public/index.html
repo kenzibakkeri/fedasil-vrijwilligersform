@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vrijwilliger worden – buddyprogramma | Fedasil</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <span class="logo">Fedasil</span>
+    <span class="site-name">Vrijwilliger worden · buddyprogramma</span>
+  </header>
+
+  <main>
+    <h1>Draag samen met Fedasil een steundje uit</h1>
+    <p>
+      Als buddy verwelkom je mensen op hun vlucht en help je hen wegwijs te worden in hun nieuwe buurt.
+      <strong>Geïnteresseerd?</strong> Vul hieronder je naam en contactgegevens in en wij nemen snel contact op.
+    </p>
+
+    <form id="inschrijving" novalidate>
+      <p class="streepje">* verplichte velden</p>
+
+      <div class="veld">
+        <label for="naam">Achter- en voornaam *</label>
+        <input id="naam" name="naam" type="text" autocomplete="name" required>
+      </div>
+
+      <div class="veld">
+        <label for="email">E-mailadres *</label>
+        <input id="email" name="email" type="email" autocomplete="email" required>
+      </div>
+
+      <div class="veld">
+        <label for="telefoon">Telefoonnummer (optioneel)</label>
+        <input id="telefoon" name="telefoon" type="tel" autocomplete="tel">
+      </div>
+
+      <div class="veld">
+        <label for="stad">Gemeente en/of postcode *</label>
+        <div class="rij">
+          <input id="stad" name="stad" type="text" autocomplete="address-level2" placeholder="bv. 3500 Hasselt" required>
+          <button type="button" id="zoek-centrum" class="secundair">Toon het dichtstbijzijnde centrum</button>
+        </div>
+        <p class="hulp">Op basis van je gemeente stellen we het centrum dat het dichts bij je in de buurt ligt voor.</p>
+        <ul id="suggesties" class="suggesties" hidden></ul>
+      </div>
+
+      <div class="veld">
+        <label for="centrum">Gewenst centrum *</label>
+        <select id="centrum" name="centrum" required>
+          <option value="">– Gewenst centrum –</option>
+        </select>
+        <p class="hulp"><span id="centra-teller"></span></p>
+      </div>
+
+      <div class="veld">
+        <label for="opmerking">Motivatie of vraag (optioneel)</label>
+        <textarea id="opmerking" name="opmerking" rows="4"></textarea>
+      </div>
+
+      <input type="text" name="website" id="website" class="honiembre" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+      <div class="veld toestemming">
+        <label for="toestemming">
+          * Door op "Contacteer mij" te klikken, geeft u aan dat u akkoord gaat met het gebruik van uw
+          persoonsgegevens door Fedasil in het kader van het buddyprogramma. Zie ons privacybeleid.
+        </label>
+        <input id="toestemming" name="toestemming" type="checkbox" required>
+      </div>
+
+      <button type="submit" id="verzendknop">Contacteer mij</button>
+      <p id="formfout" class="fout" role="alert" hidden></p>
+    </form>
+
+    <div id="succes" class="succes" hidden>
+      <h2>Bedankt voor je inschrijving!</h2>
+      <p>
+        Je aanvraag is goed aangekomen en doorgestuurd naar <strong id="succescentrum"></strong>.
+        Een bevestigingsmail is onderweg naar je e-mailadres.
+      </p>
+      <p>Geen mail ontvangen? Controleer je spammap of contacteer ons op <a href="mailto:info@fedasil.be">info@fedasil.be</a>.</p>
+    </div>
+  </main>
+
+  <footer>
+    <p>Fedasil · Kartuizersstraat 21, 1000 Brussel · info@fedasil.be</p>
+  </footer>
+
+  <script src="/form.js"></script>
+</body>
+</html>

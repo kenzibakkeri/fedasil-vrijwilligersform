@@ -1,0 +1,771 @@
+{
+  "bijgewerktOp": "2026-11-19",
+  "bron": "https://www.fedasil.be/nl/opvangcentra",
+  "centra": [
+    {
+      "id": "alveringem",
+      "naam": "Alveringem",
+      "stad": "Alveringem",
+      "postcode": "8690",
+      "adres": "Gapaard 9",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.alveringem@fedasil.be",
+      "telefoon": "0470 77 15 18",
+      "coordinaten": {
+        "lat": 51,
+        "lon": 2.71
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "arendonk",
+      "naam": "Arendonk",
+      "stad": "Arendonk",
+      "postcode": "2370",
+      "adres": "Grens 77",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.arendonk@fedasil.be",
+      "telefoon": "014 40 52 50",
+      "coordinaten": {
+        "lat": 51.32,
+        "lon": 5.24
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "bovigny",
+      "naam": "Bovigny",
+      "stad": "Gouvy",
+      "postcode": "6671",
+      "adres": "Courtil 1",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.bovigny@fedasil.be",
+      "telefoon": "080 28 20 70",
+      "coordinaten": {
+        "lat": 50.22,
+        "lon": 5.99
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "braine-le-comte",
+      "naam": "Braine-le-Comte",
+      "stad": "Braine-le-Comte",
+      "postcode": "7090",
+      "adres": "Rue Père Damien 16",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.braine_le_comte@fedasil.be",
+      "telefoon": null,
+      "coordinaten": {
+        "lat": 50.61,
+        "lon": 4.13
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "broechem",
+      "naam": "Broechem",
+      "stad": "Ranst",
+      "postcode": "2520",
+      "adres": "Van den Nestlaan 104",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.broechem@fedasil.be",
+      "telefoon": "03 727 12 60",
+      "coordinaten": {
+        "lat": 51.2,
+        "lon": 4.6
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "brussel-bordet",
+      "naam": "Brussel Bordet",
+      "stad": "Brussel",
+      "postcode": "1000",
+      "adres": "Wolstraat 200",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.bordet@fedasil.be",
+      "telefoon": null,
+      "coordinaten": {
+        "lat": 50.85,
+        "lon": 4.35
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "charleroi",
+      "naam": "Charleroi",
+      "stad": "Charleroi",
+      "postcode": "6040",
+      "adres": "Parc Industriel, 2de rue 24",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.charleroi@fedasil.be",
+      "telefoon": "071 34 90 80",
+      "coordinaten": {
+        "lat": 50.41,
+        "lon": 4.44
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "couvin",
+      "naam": "Couvin",
+      "stad": "Couvin",
+      "postcode": "5660",
+      "adres": "Rue Dessus de la Ville 5",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.couvin@fedasil.be",
+      "telefoon": "060 45 96 20",
+      "coordinaten": {
+        "lat": 50.05,
+        "lon": 4.49
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "dilbeek",
+      "naam": "Dilbeek",
+      "stad": "Dilbeek",
+      "postcode": "1700",
+      "adres": "Kattebroekstraat 199",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.dilbeek@fedasil.be",
+      "telefoon": "02 416 16 70",
+      "coordinaten": {
+        "lat": 50.77,
+        "lon": 4.26
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "florennes",
+      "naam": "Florennes",
+      "stad": "Florennes",
+      "postcode": "5620",
+      "adres": "Rue Henry de Rohan Chabot 120",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.florennes@fedasil.be",
+      "telefoon": "071 68 11 00",
+      "coordinaten": {
+        "lat": 50.25,
+        "lon": 4.56
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "gent-boot",
+      "naam": "Gent Boot",
+      "stad": "Gent",
+      "postcode": "9000",
+      "adres": "Rigakaai 41",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.gent@fedasil.be",
+      "telefoon": "09 396 44 00",
+      "coordinaten": {
+        "lat": 51.06,
+        "lon": 3.71
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "gent-muink",
+      "naam": "Gent Muink",
+      "stad": "Gent",
+      "postcode": "9000",
+      "adres": "Hofstraat 47",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.gentmuink@fedasil.be",
+      "telefoon": null,
+      "coordinaten": {
+        "lat": 51.05,
+        "lon": 3.74
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "grimbergen",
+      "naam": "Grimbergen",
+      "stad": "Grimbergen",
+      "postcode": "1853",
+      "adres": "Bergdal 16",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.grimbergen@fedasil.be",
+      "telefoon": "02 541 00 60",
+      "coordinaten": {
+        "lat": 50.94,
+        "lon": 4.37
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "hasselt",
+      "naam": "Hasselt",
+      "stad": "Hasselt",
+      "postcode": "3500",
+      "adres": "Genkersteenweg 350",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.hasselt@fedasil.be",
+      "telefoon": null,
+      "coordinaten": {
+        "lat": 50.93,
+        "lon": 5.34
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "herbeumont",
+      "naam": "Herbeumont",
+      "stad": "Herbeumont",
+      "postcode": "6887",
+      "adres": "Les Fourches 1",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.herbeumont@fedasil.be",
+      "telefoon": "061 39 53 00",
+      "coordinaten": {
+        "lat": 49.79,
+        "lon": 5.25
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "jalhay",
+      "naam": "Jalhay",
+      "stad": "Jalhay",
+      "postcode": "4845",
+      "adres": "Stockay 17",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.jalhay@fedasil.be",
+      "telefoon": "0478 34 82 15",
+      "coordinaten": {
+        "lat": 50.55,
+        "lon": 5.97
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "jodoigne",
+      "naam": "Jodoigne",
+      "stad": "Jodoigne",
+      "postcode": "1370",
+      "adres": "Chaussée de Hannut 141",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.jodoigne@fedasil.be",
+      "telefoon": "010 47 66 00",
+      "coordinaten": {
+        "lat": 50.72,
+        "lon": 4.87
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "kapellen",
+      "naam": "Kapellen",
+      "stad": "Kapellen",
+      "postcode": "2950",
+      "adres": "Kazerneweg 35",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.kapellen@fedasil.be",
+      "telefoon": "03 660 19 00",
+      "coordinaten": {
+        "lat": 51.32,
+        "lon": 4.38
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "koksijde",
+      "naam": "Koksijde",
+      "stad": "Koksijde",
+      "postcode": "8670",
+      "adres": "Robert Vandammestraat 100A",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.koksijde@fedasil.be",
+      "telefoon": "0474 66 20 05",
+      "coordinaten": {
+        "lat": 51.11,
+        "lon": 2.65
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "lommel",
+      "naam": "Lommel",
+      "stad": "Lommel",
+      "postcode": "3920",
+      "adres": "Luikersteenweg 313A",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.lommel@fedasil.be",
+      "telefoon": "0470 21 43 38",
+      "coordinaten": {
+        "lat": 51.23,
+        "lon": 5.31
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "machelen",
+      "naam": "Machelen",
+      "stad": "Machelen",
+      "postcode": "1831",
+      "adres": "Bessenveldstraat 15",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.machelen@fedasil.be",
+      "telefoon": "02 737 66 00",
+      "coordinaten": {
+        "lat": 50.91,
+        "lon": 4.44
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "marcinelle",
+      "naam": "Marcinelle",
+      "stad": "Charleroi",
+      "postcode": "6001",
+      "adres": "Rue Cité de l'Enfance 45",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.marcinelle@fedasil.be",
+      "telefoon": null,
+      "coordinaten": {
+        "lat": 50.39,
+        "lon": 4.45
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "morlanwelz",
+      "naam": "Morlanwelz",
+      "stad": "Morlanwelz",
+      "postcode": "7140",
+      "adres": "Chaussée de Mariemont 92",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.morlanwelz@fedasil.be",
+      "telefoon": "064 23 96 40",
+      "coordinaten": {
+        "lat": 50.45,
+        "lon": 4.18
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "molenbeek",
+      "naam": "Sint-Jans-Molenbeek",
+      "stad": "Sint-Jans-Molenbeek",
+      "postcode": "1080",
+      "adres": "François Sebrechtslaan 40",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.molenbeek@fedasil.be",
+      "telefoon": "02 474 26 50",
+      "coordinaten": {
+        "lat": 50.85,
+        "lon": 4.33
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "mouscron",
+      "naam": "Mouscron",
+      "stad": "Mouscron",
+      "postcode": "7700",
+      "adres": "Rue du Couvent 39",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.mouscron@fedasil.be",
+      "telefoon": null,
+      "coordinaten": {
+        "lat": 50.74,
+        "lon": 3.21
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "neder-over-heembeek",
+      "naam": "Neder-Over-Heembeek",
+      "stad": "Brussel",
+      "postcode": "1120",
+      "adres": "Bruynstraat 11-20",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.noh@fedasil.be",
+      "telefoon": "02 266 48 21",
+      "coordinaten": {
+        "lat": 50.91,
+        "lon": 4.38
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "oudergem",
+      "naam": "Oudergem",
+      "stad": "Oudergem",
+      "postcode": "1160",
+      "adres": "Jean Van Horenbeecklaan 192",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.auderghem@fedasil.be",
+      "telefoon": "02 369 30 50",
+      "coordinaten": {
+        "lat": 50.8,
+        "lon": 4.43
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "overijse",
+      "naam": "Overijse",
+      "stad": "Overijse",
+      "postcode": "3090",
+      "adres": "Homeweg 15",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.overijse@fedasil.be",
+      "telefoon": "02 212 39 50",
+      "coordinaten": {
+        "lat": 50.77,
+        "lon": 4.53
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "poelkapelle",
+      "naam": "Poelkapelle",
+      "stad": "Poelkapelle",
+      "postcode": "8920",
+      "adres": "Stadensteenweg 68",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.poelkapelle@fedasil.be",
+      "telefoon": "051 48 06 20",
+      "coordinaten": {
+        "lat": 50.92,
+        "lon": 2.9
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "pondrome",
+      "naam": "Pondrôme",
+      "stad": "Beauraing",
+      "postcode": "5574",
+      "adres": "Rue du Tombois 4",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.pondrome@fedasil.be",
+      "telefoon": "082 68 70 50",
+      "coordinaten": {
+        "lat": 50.18,
+        "lon": 4.75
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "rixensart",
+      "naam": "Rixensart",
+      "stad": "Rixensart",
+      "postcode": "1330",
+      "adres": "Rue du Plagniau 1",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.rixensart@fedasil.be",
+      "telefoon": "02 655 10 20",
+      "coordinaten": {
+        "lat": 50.71,
+        "lon": 4.53
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "schaarbeek",
+      "naam": "Schaarbeek",
+      "stad": "Schaarbeek",
+      "postcode": "1030",
+      "adres": "Lambermontlaan 322",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.schaerbeek@fedasil.be",
+      "telefoon": "02 226 02 20",
+      "coordinaten": {
+        "lat": 50.86,
+        "lon": 4.39
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "schilde",
+      "naam": "Schilde",
+      "stad": "Schilde",
+      "postcode": "2970",
+      "adres": "Brasschaatsebaan 126",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.schilde@fedasil.be",
+      "telefoon": "03 202 54 00",
+      "coordinaten": {
+        "lat": 51.24,
+        "lon": 4.58
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "senonchamps",
+      "naam": "Senonchamps",
+      "stad": "Bastogne",
+      "postcode": "6600",
+      "adres": "Senonchamps 1B",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.senonchamps@fedasil.be",
+      "telefoon": "0470 63 06 98",
+      "coordinaten": {
+        "lat": 50.04,
+        "lon": 5.63
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "sint-pieters-woluwe",
+      "naam": "Sint-Pieters-Woluwe",
+      "stad": "Sint-Pieters-Woluwe",
+      "postcode": "1150",
+      "adres": "Palmboomstraat 80",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.wsp@fedasil.be",
+      "telefoon": "02 739 62 36",
+      "coordinaten": {
+        "lat": 50.82,
+        "lon": 4.46
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "sint-truiden",
+      "naam": "Sint-Truiden",
+      "stad": "Sint-Truiden",
+      "postcode": "3800",
+      "adres": "Montenakenweg 145",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.sint-truiden@fedasil.be",
+      "telefoon": "011 69 75 00",
+      "coordinaten": {
+        "lat": 50.81,
+        "lon": 5.23
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "spa",
+      "naam": "Spa",
+      "stad": "Spa",
+      "postcode": "4900",
+      "adres": "Spaloumont 5",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.spa@fedasil.be",
+      "telefoon": "087 89 88 90",
+      "coordinaten": {
+        "lat": 50.49,
+        "lon": 5.86
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "steenokkerzeel",
+      "naam": "Steenokkerzeel",
+      "stad": "Steenokkerzeel",
+      "postcode": "1820",
+      "adres": "Keizerinlaan 2",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.steenokkerzeel@fedasil.be",
+      "telefoon": "02 755 23 60",
+      "coordinaten": {
+        "lat": 50.91,
+        "lon": 4.51
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "sugny",
+      "naam": "Sugny",
+      "stad": "Vodelée",
+      "postcode": "5550",
+      "adres": "Voies de Bohan 245",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.sugny@fedasil.be",
+      "telefoon": "061 27 57 70",
+      "coordinaten": {
+        "lat": 50.14,
+        "lon": 4.7
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "walcourt",
+      "naam": "Walcourt",
+      "stad": "Walcourt",
+      "postcode": "5650",
+      "adres": "Rue Toffette 16",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.walcourt@fedasil.be",
+      "telefoon": "071 25 61 20",
+      "coordinaten": {
+        "lat": 50.25,
+        "lon": 4.43
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "zoutleeuw",
+      "naam": "Zoutleeuw",
+      "stad": "Zoutleeuw",
+      "postcode": "3440",
+      "adres": "Zoutleeuwse Steenweg 11",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.zoutleeuw@fedasil.be",
+      "telefoon": "011 49 55 00",
+      "coordinaten": {
+        "lat": 50.83,
+        "lon": 5.1
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "glons",
+      "naam": "Glons",
+      "stad": "Bassenge",
+      "postcode": "4690",
+      "adres": "Thier Mathias 1B",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.glons@fedasil.be",
+      "telefoon": "0471 66 61 31",
+      "coordinaten": {
+        "lat": 50.78,
+        "lon": 5.55
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "liege-saint-joseph",
+      "naam": "Luik Saint-Joseph",
+      "stad": "Luik",
+      "postcode": "4000",
+      "adres": "Rue de Hesbaye 75",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.liege_saint_joseph@fedasil.be",
+      "telefoon": "04 296 01 50",
+      "coordinaten": {
+        "lat": 50.63,
+        "lon": 5.58
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "liege-saint-vincent",
+      "naam": "Luik Saint-Vincent",
+      "stad": "Luik",
+      "postcode": "4000",
+      "adres": "Rue François Lefèbvre 215",
+      "operator": "Fedasil",
+      "type": "opvangcentrum",
+      "email": "info.liege@fedasil.be",
+      "telefoon": null,
+      "coordinaten": {
+        "lat": 50.66,
+        "lon": 5.52
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    },
+    {
+      "id": "klein-kasteeltje",
+      "naam": "Brussel (Klein-Kasteeltje)",
+      "stad": "Brussel",
+      "postcode": "1000",
+      "adres": "Negende Linielaan 27",
+      "operator": "Fedasil",
+      "type": "aanmeldcentrum",
+      "email": "aanmeldcentrum@fedasil.be",
+      "telefoon": "02 227 41 51",
+      "coordinaten": {
+        "lat": 50.86,
+        "lon": 4.34
+      },
+      "actief": true,
+      "bevestigdOp": "2026-11-19"
+    }
+  ]
+}

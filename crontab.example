@@ -1,0 +1,8 @@
+Maandelijks de lijst met centra verversen (maakt deel uit van de deploy van het vrijwilligersformulier):
+
+# om 06:00 op de eerste dag van elke maand
+0 6 1 * * cd /pad/naar/fedasil-vrijwilligersform && /usr/bin/node scripts/fetch-centers.mjs >> /var/log/fedasil-centra.log 2>&1
+
+Na een koeling van het script: controleer de uitvoer. Als er "NIEUW" of "inactief" in staat,
+vul eventueel ontbrekende coordinaten handmatig aan in data/centers.json en herstart de applicatie
+zodat de dropdown en de suggestie meteen de nieuwe situatie tonen.
